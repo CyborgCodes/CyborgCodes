@@ -2,7 +2,7 @@
 
 **`Software Developer (Web/Apps)`**
 
-I'm a software enthusiast deeply immersed in the art of development. Experienced in web and mobile app development. I love exploring new technologies, solutions, and love turning innovative ideas into reality through clean, maintainable code. My next aspiration is to publish my very own mobile application aimed at addressing real-world challenges and making a positive impact. 
+I'm a software enthusiast deeply immersed in the art of development. Experienced in web and mobile app development, I love exploring new technologies, solutions, and love turning innovative ideas into reality through clean, maintainable code. My next aspiration is to publish my very own mobile application aimed at addressing real-world challenges and making a positive impact. 
 
 ---
 
